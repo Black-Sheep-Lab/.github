@@ -48,7 +48,7 @@ Somos un laboratorio de software que construye sistemas que corren en producció
 | **Red México Emprende** | Módulos para una red de emprendedores: comunidad, eventos con boletos, membresías, cursos y certificados. _Cliente._ | Next.js, TypeScript, PostgreSQL, Socket.IO, Mercado Pago. | [redmexicoemprende.mx](https://www.redmexicoemprende.mx/) |
 | **Hagamos Cine** | Red profesional de la industria audiovisual: perfiles con demo reel, llamados, feed, eventos, marketplace y "Mi Crew". _Cliente._ | Next.js, Socket.IO. | [hagamoscine.com](https://hagamoscine.com/) |
 | **Skool** | LMS multi-empresa para capacitar equipos: cursos, acceso por rol/equipo, seguimiento, certificados y analytics. _Cliente._ | Next.js, TypeScript, PostgreSQL, SCORM y video, Capacitor. Un dominio por empresa. | [skool.com.mx](https://skool.com.mx/) |
-| **KRKN** | Herramientas de piso y almacén sobre Microsip: etiquetado, layout/croquis del CEDIS e inventario. _Cliente, uso interno._ | Next.js + TypeScript; PHP 8, Firebird y FastAPI; etiquetas ZPL/TSPL. | _Privado_ |
+| **KRKN** | Herramientas de piso y almacén sobre Microsip: etiquetado, layout/croquis del CEDIS e inventario. _Cliente, uso interno._ | Next.js + TypeScript; PHP 8, Firebird y FastAPI; etiquetas ZPL/TSPL. | [krkn.mx](https://krkn.mx/) |
 
 ## Cómo trabajamos
 

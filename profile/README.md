@@ -75,7 +75,7 @@ Somos un laboratorio de software que construye sistemas que corren en producció
 | --- | --- | --- |
 | <a href="https://github.com/JeroboamSL"><img src="https://github.com/JeroboamSL.png?size=80" width="60" alt="JeroboamSL"></a> | **Jeroboam Sánchez López**<br>Fundador · Owner de la organización | [@JeroboamSL](https://github.com/JeroboamSL) |
 | <a href="https://github.com/Brandonromeroz"><img src="https://github.com/Brandonromeroz.png?size=80" width="60" alt="Brandonromeroz"></a> | **Brandon Romero Zavala** | [@Brandonromeroz](https://github.com/Brandonromeroz) |
-| <a href="https://github.com/G-Darko"><img src="https://github.com/G-Darko.png?size=80" width="60" alt="G-Darko"></a> | **Gael Uribe**<br>Desarrollador · Ingeniero en TI · [Portafolio](https://g-darko.github.io/portafolio/) | [@G-Darko](https://github.com/G-Darko) |
+| <a href="https://github.com/G-Darko"><img src="https://github.com/G-Darko.png?size=80" width="60" alt="G-Darko"></a> | **Gael Uribe** | [@G-Darko](https://github.com/G-Darko) |
 | <a href="https://github.com/gallard000"><img src="https://github.com/gallard000.png?size=80" width="60" alt="gallard000"></a> | **Jonathan Gallardo** | [@gallard000](https://github.com/gallard000) |
 | <a href="https://github.com/inericont"><img src="https://github.com/inericont.png?size=80" width="60" alt="inericont"></a> | **Ineri Alejandra Contreras Pérez** | [@inericont](https://github.com/inericont) |
 | <a href="https://github.com/JorgeAJonesp"><img src="https://github.com/JorgeAJonesp.png?size=80" width="60" alt="JorgeAJonesp"></a> | **Jorge Alfredo Jones Spindola** | [@JorgeAJonesp](https://github.com/JorgeAJonesp) |
